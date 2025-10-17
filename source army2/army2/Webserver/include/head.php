@@ -29,7 +29,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-  <script src="/handler/query.js?t=<? echo time(); ?>"></script>
+  <script src="/army2/handler/query.js?t=<? echo time(); ?>"></script>
 
 </head>
 <body>
@@ -39,7 +39,7 @@
     padding-right: 5px;
     margin-bottom: -10px;
     padding-top: 10px;">
-    <img height=12 alt="12 tuổi" src="/public/images/12.png" style="vertical-align: middle;" />
+    <img height=12 alt="12 tuổi" src="/army2/public/images/12.png" style="vertical-align: middle;" />
     <span style="vertical-align: middle;">Dành cho người chơi trên 12 tuổi. Chơi quá 180 phút mỗi ngày sẽ hại sức khỏe.
 			</span>
 </div>
@@ -47,7 +47,7 @@
   <div class="bg-content2">
     <h1 class="a" align="center">
       <a href="/" title="Trang Chủ MobiArmy II">
-        <img src="/public/images/logo123.png" alt="MobiArmy II" width="50%">
+        <img src="/army2/public/images/logo123.png" alt="MobiArmy II" width="50%">
       </a>
     </h1>
     <div id="top">
@@ -60,43 +60,43 @@
                 
                 <?php 
                   $path = $_SERVER['REQUEST_URI'];
-                  if ($path === "/") {
-                    echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/" >Trang Chủ</a></td>';
+                  if ($path === "/army2") {
+                    echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/army2" >Trang Chủ</a></td>';
                   } else {
-                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/" >Trang Chủ</a></td>';
+                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/army2" >Trang Chủ</a></td>';
                   }
                   echo "\n";
-                  if ($path === "/about") {
-                    echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/about" >Giới Thiệu</a></td>';
+                  if ($path === "/army2/about") {
+                    echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/army2/about" >Giới Thiệu</a></td>';
                   } else {
-                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/about" >Giới Thiệu</a></td>';
+                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/army2/about" >Giới Thiệu</a></td>';
                   }
                   if (!isset($_SESSION['user_id'])) {
                     echo "\n";
-                    if ($path === "/login") {
-                      echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/login" >Đăng Nhập</a></td>';
+                    if ($path === "/army2/login") {
+                      echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/army2/login" >Đăng Nhập</a></td>';
                     } else {
-                      echo '<td style="padding: 2px; font-size: 11px;"><a href="/login" >Đăng Nhập</a></td>';
+                      echo '<td style="padding: 2px; font-size: 11px;"><a href="/army2/login" >Đăng Nhập</a></td>';
                     }
                     echo "\n";
-                    if ($path === "/register") {
-                      echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/register" >Đăng Ký</a></td>';
+                    if ($path === "/army2/register") {
+                      echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/army2/register" >Đăng Ký</a></td>';
                     } else {
-                      echo '<td style="padding: 2px; font-size: 11px;"><a href="/register" >Đăng Ký</a></td>';
+                      echo '<td style="padding: 2px; font-size: 11px;"><a href="/army2/register" >Đăng Ký</a></td>';
                     }
                   } else {
-                    if ($path === "/profile") {
-                      echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/profile" >Thông tin</a></td>';
+                    if ($path === "/army2/profile") {
+                      echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/army2/profile" >Thông tin</a></td>';
                     } else {
-                      echo '<td style="padding: 2px; font-size: 11px;"><a href="/profile" >Thông tin</a></td>';
+                      echo '<td style="padding: 2px; font-size: 11px;"><a href="/army2/profile" >Thông tin</a></td>';
                     }
-                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/team" >Biệt đội</a></td>';
+                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/army2/team" >Biệt đội</a></td>';
                   }
                   echo "\n";
-                  if ($path === "/ranking") {
-                    echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/ranking" >Cao Thủ</a></td>';
+                  if ($path === "/army2/ranking") {
+                    echo '<td id="selected" style="padding: 2px; font-family: \'Amatic SC\', cursive; font-size: 11px;"><a href="/army2/ranking" >Cao Thủ</a></td>';
                   } else {
-                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/ranking" >Cao Thủ</a></td>';
+                    echo '<td style="padding: 2px; font-size: 11px;"><a href="/army2/ranking" >Cao Thủ</a></td>';
                   }
                 ?>
                 

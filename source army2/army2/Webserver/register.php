@@ -68,7 +68,7 @@ if (isset($_POST['register'])) {
       <h4>Đăng Ký</h4>
     </div>
     <div class="content" style="text-align:center">
-      <form action="/register" method="post">
+      <form action="/army2/register" method="post">
         <span style="margin-left:-85px; font-family: AVO, Arial !important;">Tên tài khoản</span><br>
         <input name="username" style="margin-top:3px; margin-bottom:5px"><br>
         <span style="margin-left:-130px; font-family: AVO, Arial !important;">Email</span><br>

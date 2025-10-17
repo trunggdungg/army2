@@ -50,107 +50,107 @@
 			<td style="text-align:center;background:#C0C0C0"><strong>Chức năng</strong></td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/0.png" />&nbsp;Cứu thương</td>
+			<td><img alt="" src="/army2/public/images/item/0.png" />&nbsp;Cứu thương</td>
 			<td>Hồi phục HP, mang theo tối đa 2 g&oacute;i trong 1 trận đấu</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/1.png" />&nbsp;Dịch chuyển tức thời</td>
+			<td><img alt="" src="/army2/public/images/item/1.png" />&nbsp;Dịch chuyển tức thời</td>
 			<td>Dịch chuyển tức thời đến 1 vị tr&iacute; kh&aacute;c, mang theo tối đa 2 g&oacute;i trong 1 trận đấu</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/3.png" />&nbsp;Di chuyển x2</td>
+			<td><img alt="" src="/army2/public/images/item/3.png" />&nbsp;Di chuyển x2</td>
 			<td>Di chuyển xa x2</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/5.png" />&nbsp;Ngưng gi&oacute;</td>
+			<td><img alt="" src="/army2/public/images/item/5.png" />&nbsp;Ngưng gi&oacute;</td>
 			<td>Ngưng gi&oacute; trong 3 lượt bắn</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/6.png" />&nbsp;Bom ph&aacute; đất</td>
+			<td><img alt="" src="/army2/public/images/item/6.png" />&nbsp;Bom ph&aacute; đất</td>
 			<td>Ph&aacute; n&aacute;t mặt đất, g&acirc;y kh&oacute; khăn cho đối phương khi di chuyển</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/7.png" />&nbsp;Lựu đạn</td>
+			<td><img alt="" src="/army2/public/images/item/7.png" />&nbsp;Lựu đạn</td>
 			<td>N&eacute;m v&agrave;o đối phương, sức hủy diệt cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/8.png" />&nbsp;Bom B52</td>
+			<td><img alt="" src="/army2/public/images/item/8.png" />&nbsp;Bom B52</td>
 			<td>Sức hủy diệt cao tr&ecirc;n diện rộng</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/9.png" />&nbsp;Tơ nhện</td>
+			<td><img alt="" src="/army2/public/images/item/9.png" />&nbsp;Tơ nhện</td>
 			<td>D&ugrave;ng để cản đường, l&agrave;m đối phương bị mắc kẹt</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/10.png" />&nbsp;Cứu thương đồng đội</td>
+			<td><img alt="" src="/army2/army2/public/images/item/10.png" />&nbsp;Cứu thương đồng đội</td>
 			<td>D&ugrave;ng để cứu thương cho to&agrave;n bộ đồng đội</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/11.png" />&nbsp;Đạn tr&aacute;i ph&aacute;</td>
+			<td><img alt="" src="/army2/public/images/item/11.png" />&nbsp;Đạn tr&aacute;i ph&aacute;</td>
 			<td>Ph&aacute; n&aacute;t mặt đất, g&acirc;y kh&oacute; khăn cho đối phương khi di chuyển</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/16.png" />&nbsp;Đạn Laze</td>
+			<td><img alt="" src="/army2/public/images/item/16.png" />&nbsp;Đạn Laze</td>
 			<td>Rọi tia Laze v&agrave;o mục ti&ecirc;u, sức hủy diệt cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/17.png" />&nbsp;Đạn v&ograve;i rồng</td>
+			<td><img alt="" src="/army2/public/images/item/17.png" />&nbsp;Đạn v&ograve;i rồng</td>
 			<td>Tạo 1 cơn lốc xo&aacute;y l&agrave;m lệch c&aacute;c đường đạn trong 3 lượt</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/18.png" />&nbsp;Chuột gắn bom</td>
+			<td><img alt="" src="/army2/public/images/item/18.png" />&nbsp;Chuột gắn bom</td>
 			<td>Thả chuột c&oacute; gắn bom chạy đến mục ti&ecirc;u rồi ph&aacute;t nổ, sức hủy diệt cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/19.png" />&nbsp;T&ecirc;n lửa x4</td>
+			<td><img alt="" src="/army2/public/images/item/19.png" />&nbsp;T&ecirc;n lửa x4</td>
 			<td>Ph&oacute;ng ra 4 t&ecirc;n lửa nhắm v&agrave;o 1 mục ti&ecirc;u, sức hủy diệt cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/20.png" />&nbsp;Đạn xuy&ecirc;n đất</td>
+			<td><img alt="" src="/army2/public/images/item/20.png" />&nbsp;Đạn xuy&ecirc;n đất</td>
 			<td>Đạn xuy&ecirc;n v&agrave;o trong đất v&agrave; nổ khi chạm mục ti&ecirc;u, sức hủy điệt cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/21.png" />&nbsp;Mưa sao băng</td>
+			<td><img alt="" src="/army2/public/images/item/21.png" />&nbsp;Mưa sao băng</td>
 			<td>Tạo một cơn mưa thi&ecirc;n thạch ti&ecirc;u diệt nhiều mục ti&ecirc;u tr&ecirc;n diện rộng</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/22.png" />&nbsp;Mưa đạn</td>
+			<td><img alt="" src="/army2/public/images/item/22.png" />&nbsp;Mưa đạn</td>
 			<td>Tạo một cơn mưa đạn ti&ecirc;u diệt nhiều mục ti&ecirc;u tr&ecirc;n diện rộng, sức hủy diệt cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/24.png" />&nbsp;Bom độc</td>
+			<td><img alt="" src="/army2/public/images/item/24.png" />&nbsp;Bom độc</td>
 			<td>Bom c&oacute; chất độc, l&agrave;m mất m&aacute;u đối phương sau mỗi lượt</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/26.png" />&nbsp;Chong ch&oacute;ng khoan đất</td>
+			<td><img alt="" src="/army2/public/images/item/26.png" />&nbsp;Chong ch&oacute;ng khoan đất</td>
 			<td>Chong ch&oacute;ng xuy&ecirc;n v&agrave;o trong đất, ph&aacute;t nổ khi chạm v&agrave;o mục ti&ecirc;u, sức hủy diệt cực cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/28.png" />&nbsp;Đ&oacute;ng băng</td>
+			<td><img alt="" src="/army2/public/images/item/28.png" />&nbsp;Đ&oacute;ng băng</td>
 			<td>Đ&oacute;ng băng đối phương, kh&ocirc;ng thể di chuyển</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/29.png" />&nbsp;Kh&iacute; độc</td>
+			<td><img alt="" src="/army2/public/images/item/29.png" />&nbsp;Kh&iacute; độc</td>
 			<td>Thả kh&oacute;i độc l&agrave;m ti&ecirc;u hao dần HP đối phương mỗi lượt</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/30.png" />&nbsp;Tơ nhện x3</td>
+			<td><img alt="" src="/army2/public/images/item/30.png" />&nbsp;Tơ nhện x3</td>
 			<td>D&ugrave;ng để cản đường, l&agrave;m đối phương bị mắc kẹt, bắn ra 3 lưới</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/31.png" />&nbsp;Bom hẹn giờ</td>
+			<td><img alt="" src="/army2/public/images/item/31.png" />&nbsp;Bom hẹn giờ</td>
 			<td>G&agrave;i bom hẹn giờ để nổ sau 3 lượt, sức hủy diệt cực cao</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/32.png" />&nbsp;Cứu thương 50% HP</td>
+			<td><img alt="" src="/army2/public/images/item/32.png" />&nbsp;Cứu thương 50% HP</td>
 			<td>Phục hồi 50% HP</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/33.png" />&nbsp;Cứu thương 100% HP</td>
+			<td><img alt="" src="/army2/public/images/item/33.png" />&nbsp;Cứu thương 100% HP</td>
 			<td>Phục hồi 100% HP</td>
 		</tr>
 		<tr>
-			<td><img alt="" src="/public/images/item/39.png" />&nbsp;Bom tự s&aacute;t</td>
+			<td><img alt="" src="/army2/public/images/item/39.png" />&nbsp;Bom tự s&aacute;t</td>
 			<td>Cho nổ bom hi sinh k&eacute;o theo đối phương, sức hủy diệt cực cao</td>
 		</tr>
 	</tbody>

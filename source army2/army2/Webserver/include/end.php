@@ -8,7 +8,7 @@
   </div>
 </div>
 <div class="copyright" style="line-height: 10px">
-  <h2 style="font-size:12px;">MobiArmy II</h2> © kitakeyos<br/><br/>Thiết kế bởi <a href="https://fb.com/kitakeyos" >Hoàng Dũng</a>
+  <h2 style="font-size:12px;">MobiArmy II</h2> © trungdungit<br/><br/>Thiết kế bởi <a href="#" >Trung Dũng</a>
 </div>
 </body>
 </html>

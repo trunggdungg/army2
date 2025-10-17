@@ -22,7 +22,7 @@ if ($createdCharacter) {
 }
 ?>
 <div class="bg-content" style="text-align:right">Xin chào <?php echo $user['user'] ?>,
-  <a href="/logout" style="color:seagreen"><b>Đăng xuất!</b></a>
+  <a href="/army2/logout" style="color:seagreen"><b>Đăng xuất!</b></a>
 </div>
 <div class="bg-content content">
   <?php

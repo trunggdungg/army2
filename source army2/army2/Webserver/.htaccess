@@ -1,5 +1,6 @@
 RewriteEngine On
-RewriteBase /home.html
+# RewriteBase /home.html
+RewriteBase /army2/
 RewriteCond %{REQUEST_FILENAME} !-f [OR] !-d
 RewriteCond %{REQUEST_FILENAME} !-s
 RewriteRule ^register$ /register.php [L]

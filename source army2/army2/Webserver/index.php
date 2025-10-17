@@ -6,12 +6,12 @@
                 
     <div class="bg_top_22">
         <div class="w3-content w3-display-container">
-            <img class="mySlides" src="/public/images/boss1.png" alt="MobiArmy II" style="width:100%">
-            <img class="mySlides" src="/public/images/boss2.png" alt="MobiArmy II" style="width:100%">
-            <img class="mySlides" src="/public/images/boss3.png" alt="MobiArmy II" style="width:100%">
-            <img class="mySlides" src="/public/images/boss4.png" alt="MobiArmy II" style="width:100%">
-            <img class="mySlides" src="/public/images/boss5.png" alt="MobiArmy II" style="width:100%">
-            <img class="mySlides" src="/public/images/boss6.png" alt="MobiArmy II" style="width:100%">
+            <img class="mySlides" src="/army2/public/images/boss1.png" alt="MobiArmy II" style="width:100%">
+            <img class="mySlides" src="/army2/public/images/boss2.png" alt="MobiArmy II" style="width:100%">
+            <img class="mySlides" src="/army2/public/images/boss3.png" alt="MobiArmy II" style="width:100%">
+            <img class="mySlides" src="/army2/public/images/boss4.png" alt="MobiArmy II" style="width:100%">
+            <img class="mySlides" src="/army2/public/images/boss5.png" alt="MobiArmy II" style="width:100%">
+            <img class="mySlides" src="/army2/public/images/boss6.png" alt="MobiArmy II" style="width:100%">
         </div>
         <script>
             var myIndex = 0;

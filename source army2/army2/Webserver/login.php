@@ -54,7 +54,7 @@
       <h4>Đăng Nhập</h4>
     </div>
     <div class="content" style="text-align:center">
-      <form action="/login" method="POST">
+      <form action="login" method="POST">
         <span style="margin-left:-85px; font-family: AVO, Arial !important;">Tên tài khoản</span><br>
         <input name="username" style="margin-top:3px; margin-bottom:5px"><br>
         <span  style="margin-left:-105px;font-family: AVO, Arial !important;"> Mật khẩu </span><br>

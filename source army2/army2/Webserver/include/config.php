@@ -1,15 +1,15 @@
 <?php
   date_default_timezone_set('Asia/Ho_Chi_Minh');
-  session_name('kitakeyos');
+  session_name('trungdungit');
   session_start();
   $config = array();
   
   // info
-  $config['author']       = 'kitakeyos';
-  $config['keywords']     = 'army2, army ii, mobiarmy, mobiarmy ii, army lau, mobiarmy lau, kitakeyos';
+  $config['author']       = 'trungdungit';
+  $config['keywords']     = 'army2, army ii, mobiarmy, mobiarmy ii, army lau, mobiarmy lau, trungdungit';
   $config['description']  = 'Sống lại một thời hào hùng cùng tựa game siêu hấp dẫn.';
-  $config['css']          = '/public/css/template.min.css?v='.time();
-  $config['background']   = '/public/images/background.png';
+  $config['css']          = '/army2/public/css/template.min.css?v='.time();
+  $config['background']   = '/army2/public/images/background.png';
   $config['site_name']    = 'Mobi Army II';
   $config['site']          = 'http://army2.ml';
 
@@ -28,8 +28,8 @@
   $config['smtp']['password']      = 'password_gmail';
   $config['smtp']['from']          = 'cloud.serarmy@gmail.com';
   $config['smtp']['from_name']     = 'MobiArmy II';
-  $config['smtp']['reply']         = 'kitakeyos@gmail.com';
-  $config['smtp']['reply_name']    = 'Hoang Huu Dung';
+  $config['smtp']['reply']         = 'trungdungit@gmail.com';
+  $config['smtp']['reply_name']    = 'Trung Dung';
   $config['smtp']['charset']       = 'UTF-8';
   $config['smtp']['language']      = 'en';
   $config['smtp']['html']          = true;
